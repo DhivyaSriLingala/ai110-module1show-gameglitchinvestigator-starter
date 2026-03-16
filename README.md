@@ -53,6 +53,10 @@ A Streamlit number-guessing game where the player picks a difficulty (Easy, Norm
 
 > All 5 tests pass: 3 original `check_guess` tests (fixed to unpack tuple return) + 2 new regression tests for the attempts off-by-one bug.
 
+**Fixed game — winning screen:**
+
+![Fixed game winning screen](docs/demo_win.png)
+
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
